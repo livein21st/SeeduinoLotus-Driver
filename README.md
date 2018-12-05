@@ -1,2 +1,3 @@
 # SeeduinoLotus-Driver
-Seeduino Lotus Driver for mac
+
+#Step1 Seeduino Lotus Driver for mac
